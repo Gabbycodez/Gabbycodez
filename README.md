@@ -1,12 +1,6 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF2FC2,100:000000&height=200&section=header&text=Gabriel%20Chambers&fontSize=55&fontColor=000000&fontAlignY=35&desc=AI%2FML%20Researcher%20%7C%20Software%20Engineer&descAlignY=55&descSize=18&descColor=000000&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FF9FDC,100:FFFFFF&height=200&section=header&text=Gabriel%20Chambers&fontSize=55&fontColor=000000&fontAlignY=35&desc=AI%2FML%20Researcher%20%7C%20Software%20Engineer&descAlignY=55&descSize=18&descColor=000000&animation=fadeIn">
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF2FC2,100:000000&height=200&section=header&text=Gabriel%20Chambers&fontSize=55&fontColor=000000&fontAlignY=35&desc=AI%2FML%20Researcher%20%7C%20Software%20Engineer&descAlignY=55&descSize=18&descColor=000000" width="100%">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/matrix-rain-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/matrix-rain-light.svg">
   <img alt="matrix rain" src="assets/matrix-rain-dark.svg" width="100%">
@@ -121,13 +115,12 @@ I am a Computer Science student passionate about building intelligent systems th
 </a>
 
 </div>
-
-<br/>
-
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF2FC2,100:000000&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FF9FDC,100:FFFFFF&height=100&section=footer">
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF2FC2,100:000000&height=100&section=footer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/matrix-rain-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/matrix-rain-light.svg">
+  <img alt="matrix rain" src="assets/matrix-rain-dark.svg" width="100%">
 </picture>
+
 </div>
