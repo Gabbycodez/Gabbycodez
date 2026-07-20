@@ -78,11 +78,6 @@ I am a Computer Science student passionate about building intelligent systems th
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gabbycodez&show_icons=true&hide_border=true&bg_color=000000&title_color=FF2FC2&icon_color=FF2FC2&text_color=FF9FDC&ring_color=FF2FC2">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Gabbycodez&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=C2008C&icon_color=FF2FC2&text_color=333333&ring_color=FF2FC2">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Gabbycodez&show_icons=true&hide_border=true&bg_color=000000&title_color=FF2FC2&icon_color=FF2FC2&text_color=FF9FDC&ring_color=FF2FC2" width="49%">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Gabbycodez&hide_border=true&background=000000&stroke=FF2FC2&ring=FF2FC2&fire=FF2FC2&currStreakLabel=FF9FDC&sideNums=FF9FDC&currStreakNum=FFFFFF&sideLabels=FF9FDC&dates=FF9FDC">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Gabbycodez&hide_border=true&background=FFFFFF&stroke=FF2FC2&ring=FF2FC2&fire=FF2FC2&currStreakLabel=C2008C&sideNums=333333&currStreakNum=000000&sideLabels=C2008C&dates=333333">
   <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabbycodez&hide_border=true&background=000000&stroke=FF2FC2&ring=FF2FC2&fire=FF2FC2&currStreakLabel=FF9FDC&sideNums=FF9FDC&currStreakNum=FFFFFF&sideLabels=FF9FDC&dates=FF9FDC" width="49%">
