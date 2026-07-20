@@ -1,26 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0090,100:000000&height=200&section=header&text=Gabriel%20Chambers&fontSize=55&fontColor=FF3DC1&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Researcher%20%7C%20Software%20Engineer&descAlignY=55&descSize=18&descColor=FF9FDC" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF2FC2,100:000000&height=200&section=header&text=Gabriel%20Chambers&fontSize=55&fontColor=000000&fontAlignY=35&desc=AI%2FML%20Researcher%20%7C%20Software%20Engineer&descAlignY=55&descSize=18&descColor=000000&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FF9FDC,100:FFFFFF&height=200&section=header&text=Gabriel%20Chambers&fontSize=55&fontColor=000000&fontAlignY=35&desc=AI%2FML%20Researcher%20%7C%20Software%20Engineer&descAlignY=55&descSize=18&descColor=000000&animation=fadeIn">
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF2FC2,100:000000&height=200&section=header&text=Gabriel%20Chambers&fontSize=55&fontColor=000000&fontAlignY=35&desc=AI%2FML%20Researcher%20%7C%20Software%20Engineer&descAlignY=55&descSize=18&descColor=000000" width="100%">
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF2FC2&center=true&vCenter=true&width=650&lines=Wake+up%2C+Neo...;Building+intelligent+systems;AI+%2F+ML+%2F+Cloud+%2F+Software+Engineering;github.com%2FGabbycodez" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/matrix-rain-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/matrix-rain-light.svg">
+  <img alt="matrix rain" src="assets/matrix-rain-dark.svg" width="100%">
+</picture>
 
 </div>
 
 <br/>
 
-## 👤 About Me
+## 👋 About Me
 
-```python
-class GabrielChambers:
-    def __init__(self):
-        self.role = ["Computer Science Student", "AI/ML Researcher", "Software Engineer"]
-        self.education = "B.S. Computer Science @ Alabama A&M University (Expected May 2027)"
-        self.credentials = ["Active Secret Clearance", "AWS Certified Cloud Practitioner"]
-        self.mission = "Building intelligent systems through AI, ML, cloud & software engineering"
+Hey, I'm **Gabriel Chambers**.
 
-    def connect(self):
-        return "let's build something intelligent together"
-```
+💻 Computer Science Student | AI/ML Researcher | Software Engineer
+🎓 B.S. Computer Science @ Alabama A&M University (Expected May 2027)
+🔐 Active Secret Clearance | ☁️ AWS Certified Cloud Practitioner
+
+I am a Computer Science student passionate about building intelligent systems through artificial intelligence, machine learning, cloud technologies, and software engineering.
 
 <br/>
 
@@ -79,12 +83,24 @@ class GabrielChambers:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gabbycodez&show_icons=true&hide_border=true&bg_color=000000&title_color=FF2FC2&icon_color=FF2FC2&text_color=FF9FDC&ring_color=FF2FC2" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabbycodez&hide_border=true&background=000000&stroke=FF2FC2&ring=FF2FC2&fire=FF2FC2&currStreakLabel=FF9FDC&sideNums=FF9FDC&currStreakNum=FFFFFF&sideLabels=FF9FDC&dates=FF9FDC" width="49%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gabbycodez&show_icons=true&hide_border=true&bg_color=000000&title_color=FF2FC2&icon_color=FF2FC2&text_color=FF9FDC&ring_color=FF2FC2">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Gabbycodez&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=C2008C&icon_color=FF2FC2&text_color=333333&ring_color=FF2FC2">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Gabbycodez&show_icons=true&hide_border=true&bg_color=000000&title_color=FF2FC2&icon_color=FF2FC2&text_color=FF9FDC&ring_color=FF2FC2" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Gabbycodez&hide_border=true&background=000000&stroke=FF2FC2&ring=FF2FC2&fire=FF2FC2&currStreakLabel=FF9FDC&sideNums=FF9FDC&currStreakNum=FFFFFF&sideLabels=FF9FDC&dates=FF9FDC">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Gabbycodez&hide_border=true&background=FFFFFF&stroke=FF2FC2&ring=FF2FC2&fire=FF2FC2&currStreakLabel=C2008C&sideNums=333333&currStreakNum=000000&sideLabels=C2008C&dates=333333">
+  <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabbycodez&hide_border=true&background=000000&stroke=FF2FC2&ring=FF2FC2&fire=FF2FC2&currStreakLabel=FF9FDC&sideNums=FF9FDC&currStreakNum=FFFFFF&sideLabels=FF9FDC&dates=FF9FDC" width="49%">
+</picture>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbycodez&layout=compact&hide_border=true&bg_color=000000&title_color=FF2FC2&text_color=FF9FDC&langs_count=8" width="49%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbycodez&layout=compact&hide_border=true&bg_color=000000&title_color=FF2FC2&text_color=FF9FDC&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbycodez&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=C2008C&text_color=333333&langs_count=8">
+  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbycodez&layout=compact&hide_border=true&bg_color=000000&title_color=FF2FC2&text_color=FF9FDC&langs_count=8" width="49%">
+</picture>
 
 </div>
 
@@ -109,5 +125,9 @@ class GabrielChambers:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0090,100:000000&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF2FC2,100:000000&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FF9FDC,100:FFFFFF&height=100&section=footer">
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF2FC2,100:000000&height=100&section=footer" width="100%">
+</picture>
 </div>
