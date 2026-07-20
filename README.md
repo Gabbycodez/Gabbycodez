@@ -83,14 +83,6 @@ I am a Computer Science student passionate about building intelligent systems th
   <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabbycodez&hide_border=true&background=000000&stroke=FF2FC2&ring=FF2FC2&fire=FF2FC2&currStreakLabel=FF9FDC&sideNums=FF9FDC&currStreakNum=FFFFFF&sideLabels=FF9FDC&dates=FF9FDC" width="49%">
 </picture>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbycodez&layout=compact&hide_border=true&bg_color=000000&title_color=FF2FC2&text_color=FF9FDC&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbycodez&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=C2008C&text_color=333333&langs_count=8">
-  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbycodez&layout=compact&hide_border=true&bg_color=000000&title_color=FF2FC2&text_color=FF9FDC&langs_count=8" width="49%">
-</picture>
-
 </div>
 
 <br/>
