@@ -73,7 +73,7 @@ I am a Computer Science student passionate about building intelligent systems th
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -100,7 +100,7 @@ I am a Computer Science student passionate about building intelligent systems th
 
 <br/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
